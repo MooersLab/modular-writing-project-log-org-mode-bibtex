@@ -13,7 +13,7 @@ Variant protocols for specific subgroups of projects can be swamped for the stan
 A protocol folder with the workflow protocols is included for inspiration.
 
 
-##Update history
+## Update history
 
 |Version      | Changes                                                                                                                                                                                                                          | Date                 |
 |:-----------|:-------------------------------------------------------------------------------------------|:--------------------|
